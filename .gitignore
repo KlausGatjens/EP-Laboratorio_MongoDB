@@ -1,5 +1,3 @@
-# Sistema operativo / editores
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+node_modules/
+.env
+*.log
