@@ -1,0 +1,16 @@
+{
+  "name": "ep-laboratorio-mongodb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env inicializar.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "mongodb": "^7.7.0"
+  }
+}
